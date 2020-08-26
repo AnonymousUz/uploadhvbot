@@ -4,7 +4,7 @@ This is a Telegram URL Upload Bot!
 
 <b>☺Please send me any direct download URL Link, i can upload to telegram as File/Video
 
-I also upload YouTube videos📥</b>
+I also upload myYouTube videos📥</b>
 
 /help for more details..
 

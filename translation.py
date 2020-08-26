@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """🙋Hello,
-This is a Telegram URL Upload Bot!
+This is a Telegram URL Upload Bot!hask
 
 <b>☺Please send me any direct download URL Link, i can upload to telegram as File/Video
 
